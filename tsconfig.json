@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "strict": true,
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators":true,
+    "skipLibCheck": true,
+    "strictNullChecks": false,
+    "declaration": false,
+    "baseUrl": ".",
+    "newLine": "lf",
+    "paths": {},
+    "types": [ "@types/node" ],
+    "jsx": "react-jsx",
+  },
+  "exclude": [ "node_modules" ]
+}
