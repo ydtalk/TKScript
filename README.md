@@ -1,6 +1,6 @@
 # TKScript
 
-`TamperMonkey`油猴脚本，`GreasyFork`[主页链接](https://greasyfork.org/zh-CN/users/584991-windrunnermax)， 如果觉得不错，点个`star`吧 😃  
+`TamperMonkey`油猴脚本，[主页链接](https://kgithub.com/ydtalk/TKScript) 如果觉得不错，点个`star`吧 😃
 
 
 ## Install
@@ -26,8 +26,3 @@
 $ pnpm install
 $ pnpm run build
 ```
-
-## Contributors
-<a href="https://github.com/WindrunnerMax/TKScript/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=WindrunnerMax/TKScript" />
-</a>
